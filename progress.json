@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T01:16:18.847Z",
+  "generated_at": "2026-11-12T01:16:56.686Z",
   "items": {
     "problem:161": {
       "kind": "problem",
@@ -10,7 +10,7 @@
       "url": "https://www.deep-ml.com/problems/161",
       "path": "problems/0161-exponential-weighted-average-of-rewards",
       "first_solved_at": "2026-11-12T01:16:14.601Z",
-      "last_pushed_at": "2026-11-12T01:16:14.601Z",
+      "last_pushed_at": "2026-11-12T01:16:56.036Z",
       "language": "python",
       "lines": 15
     }
